@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1028228220889",
+    "project_id": "beveragestore-2f4fe",
+    "storage_bucket": "beveragestore-2f4fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028228220889:android:3b89c10b3bb68d3f0b3bc8",
+        "android_client_info": {
+          "package_name": "com.example.beveragestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIB5SX34nBeelzSae6jY4yYp5RfBfCqeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
